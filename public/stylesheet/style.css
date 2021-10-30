@@ -284,11 +284,3 @@ footer {
   padding: 1%;
   font-size: 110%;
 }
-
-span {
-  background-color: darkpink;
-  border-radius: 0.25em;
-  color: white;
-  opacity: 0.9;
-  padding: 1em;
-}
