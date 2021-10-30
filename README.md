@@ -1,5 +1,5 @@
  #  Artinerary
-   ![Screen Shot 2021-06-26 at 4 45 56 PM](https://user-images.githubusercontent.com/79954805/123529152-80ddd600-d6a2-11eb-9a43-724006ed54d4.png)
+  ![Screen Shot 2021-10-30 at 11 21 14 AM](https://user-images.githubusercontent.com/79954805/139554089-29ce9885-f451-4f47-bc9c-5a6fa6a79a58.png)
 ![Screen Shot 2021-06-26 at 4 46 19 PM](https://user-images.githubusercontent.com/79954805/123529156-8509f380-d6a2-11eb-86a6-9b52bf5805a0.png)
 
 
