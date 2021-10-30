@@ -1,7 +1,7 @@
 const { Reference } = require('../models');
 const referencedata = [
     {
-        title: 'Picasso Ref  ',
+        title: 'Picasso',
         reference_url: 'https://res.cloudinary.com/scarrlettearianne/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1624567231/REFERENCES/Screen_Shot_2021-06-24_at_1.40.21_PM_dbhdbe.png'
     },
     {
@@ -9,7 +9,7 @@ const referencedata = [
         reference_url: 'https://res.cloudinary.com/scarrlettearianne/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1624567116/REFERENCES/Screen_Shot_2021-06-24_at_1.35.42_PM_bmhm3x.png'
     },
     {
-        title: 'The Wavve',
+        title: 'The Wave',
         reference_url: 'https://res.cloudinary.com/scarrlettearianne/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1624567108/REFERENCES/Screen_Shot_2021-06-24_at_1.36.49_PM_xee939.png'
     },
     {
@@ -25,7 +25,7 @@ const referencedata = [
         reference_url: 'https://res.cloudinary.com/scarrlettearianne/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1624567100/REFERENCES/Screen_Shot_2021-06-24_at_1.38.09_PM_iic0ml.png'
     },
     {
-        title: 'Elle',
+        title: 'Ellie',
         reference_url: 'https://res.cloudinary.com/scarrlettearianne/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1624566305/REFERENCES/Reference_1_mh0v81.jpg'
     },
     {
@@ -33,7 +33,7 @@ const referencedata = [
         reference_url: 'https://res.cloudinary.com/scarrlettearianne/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1624566581/REFERENCES/Screen_Shot_2021-06-24_at_1.29.30_PM_yyms2q.png'
     },
     {
-        title: 'Starriest Night',
+        title: 'Starry Night',
         reference_url: 'https://res.cloudinary.com/scarrlettearianne/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1624566518/REFERENCES/Screen_Shot_2021-06-24_at_1.27.35_PM_d3nt3r.png'
     },
     {
