@@ -20,7 +20,7 @@ Artinerary allows the user to choose from different source material, and create 
 - [Development](#development)
 
 ## Installation
-Artinerary is a deployed web application that can be found at  https://hidden-reaches-45405.herokuapp.com/
+Artinerary is a deployed web application that can be found at  https://art-inerary.herokuapp.com/
 ## Technologies
 - HTML, CSS, Javascript
 - JQuery
