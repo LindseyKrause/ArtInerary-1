@@ -11,6 +11,25 @@ The application is intended to emulate the experience of attending a "Drink & Dr
 
 Artinerary allows the user to choose from different source material, and create their own version of the source material.  They can then utilize their sign-in credentials to upload their own work.  Although sign-in is required to upload work, anyone can enjoy the benefits of viewing all artwork.  When a user clicks on a specific source material, they are presented with a page that includes the source material at the top, and below all the versions of the work created by users are displayed below.  This is meant to emulate the sense of walking around the room at an arts event and create a sense of shared experience and inspiration. 
 
+### User Story
+As an artist during a pandemic, I miss the experience of drawing and being inspired from the same source material as other artists like in a group painting environment, such as drink & draw.  I would like an online platform to look at others’ work and show my own that is derived and inspired by the same source material, much like walking around the room at a Drink & Draw.  
+
+Acceptance Criteria: 
+Given I am an artist during a pandemic
+WHEN I am presented with the web application
+THEN I see a polished, mobile-friendly application
+WHEN I am presented with the application
+THEN I am presented with source images and corresponding drawings from other users
+WHEN I inspect the page
+THEN I am given the option to log-in to upload work of my own
+WHEN I upload my work
+THEN , it will be displayed on the page below the corresponding source image
+WhEN I upload an image 
+THEN my image will be saved for later viewing. 
+When I view the page 
+Then I am given the option to upvote works that I like. 
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Technologies](#technologies)
