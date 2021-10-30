@@ -284,3 +284,12 @@ footer {
   padding: 1%;
   font-size: 110%;
 }
+
+.bulma-overlay-mixin {
+  @include overlay(1.5rem);
+  background-color: darkorange;
+  border-radius: 0.25em;
+  color: white;
+  opacity: 0.9;
+  padding: 1em;
+}
